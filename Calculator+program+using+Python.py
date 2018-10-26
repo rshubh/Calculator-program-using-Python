@@ -6,16 +6,16 @@
 
 def sum(a1,a2):
     print("Addition")
-    print(a1+a2)
+    return a1+a2
 def mul(a1,a2):
     print("Multiply")
-    print(a1*a2)
+    return a1*a2
 def div(a1,a2):
     print("Division")
-    print(a1/a2)
+    return a1/a2
 def sub(a1,a2):
     print("Subtraction")
-    print(a1-a2)
+    return a1-a2
 
 print("Please Select any Opreation \n 1: Addition \n 2: Subtraction \n 3: Multiplication \n 4: Division \n")
 
